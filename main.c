@@ -2,8 +2,9 @@
 
 int main() {
   float dtb, drl;
-  scanf ("%f", &dtb);
-  scanf ("%f", &drl);
-  
+  scanf ("%f%f", &dtb, &drl);
+  if(dtb>=9.0){
+    
+  }
   return 0;
 }
