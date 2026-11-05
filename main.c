@@ -2,8 +2,8 @@
 
 int main() {
   float dtb, dr;;
-  scanf ("%d", &dtb);
-  scanf ("%d", drl);
+  scanf ("%f", &dtb);
+  scanf ("%f", &drl);
   
   return 0;
 }
