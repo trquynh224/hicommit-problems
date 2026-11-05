@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-  float dtb, dr;;
+  float dtb, drl;
   scanf ("%f", &dtb);
   scanf ("%f", &drl);
   
